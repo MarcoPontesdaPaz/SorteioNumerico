@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SorteioNumerico</string>
+    <string name="botao_sortear">Click aqui para sortear</string>
 </resources>
